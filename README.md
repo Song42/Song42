@@ -17,7 +17,7 @@
 
 <p>&nbsp</p>
 
-### TEAM PROJECTS
+### PROJECTS
 
 | Project | Description | Tech |
 | ----- | ----- | ----- |
