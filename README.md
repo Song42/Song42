@@ -3,8 +3,6 @@
 	<p><b>student at <code>Ecole 42 Paris</code> @schaehun</b></p>
 </div>
 
-<p>&nbsp</p>
-
 ### SKILLS
 
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
