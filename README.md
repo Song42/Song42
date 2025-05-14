@@ -23,9 +23,9 @@
 | [BADASS](https://github.com/PfClaKr/Ecole42Paris_BADASS) | Bgp At Doors of Autonomous Systems is Simple | GNS3, Network |
 | [ft_shield](https://github.com/PfClaKr/Ecole42Paris_ft_shield) | Implementing a Trojan Virus | C |
 | [ft_ping](https://github.com/PfClaKr/Ecole42Paris_Override) | Implementing linux inetutils ping command | C |
-| [Override](https://github.com/PfClaKr/Ecole42Paris_Override) | Reverse Engineering C++ codes | GDB |
-| [Rainfall](https://github.com/PfClaKr/Ecole42Paris_Rainfall) | Reverse Engineering C codes | GDB |
-| [miniRT](https://github.com/PfClaKr/Ecole42Paris_miniRT) | Implementing 3D Renderer with Ray Tracing | C |
+| [Override](https://github.com/PfClaKr/Ecole42Paris_Override) | Reverse Engineering C++ codes | C++, GDB |
+| [Rainfall](https://github.com/PfClaKr/Ecole42Paris_Rainfall) | Reverse Engineering C codes | C, GDB |
+| [miniRT](https://github.com/PfClaKr/Ecole42Paris_miniRT) | Implementing 3D Renderer with Ray Tracing | C, minilibx |
 | [ft_transcendence](https://github.com/sleepychloe/ft_transcendance) | Developing a ping pong game on SPA | JavaScript, Python |
 | [WebServ](https://github.com/PfClaKr/Ecole42Paris_Webserv) | Implementing a WebServ | C++ |
 
