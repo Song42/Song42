@@ -3,6 +3,10 @@
 	<p><b>student at <code>Ecole 42 Paris</code> @schaehun</b></p>
 </div>
 
+<div align="right">
+</div>
+
+
 ### SKILLS
 
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -30,6 +34,11 @@
 | [WebServ](https://github.com/PfClaKr/Ecole42Paris_Webserv) | Implementing a WebServ | C++ |
 
 
+
+
+
+<!-- [![](https://github-readme-stats.vercel.app/api?username=Song42)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Song42&size_weight=0.5&count_weight=0.5) -->
 
 <!-- ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
