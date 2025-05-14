@@ -14,16 +14,16 @@
 
 ### . Team Project List
 
-| Project | Description |
-| ----- | ----- |
-| [KFS](https://github.com/PfClaKr/Ecole42Paris_KFS) | Kernel From Scratch |
-| [ft_shield](https://github.com/PfClaKr/Ecole42Paris_ft_shield) | ft_shield |
-| [Override](https://github.com/PfClaKr/Ecole42Paris_Override) | override |
-| [ft_ping](https://github.com/PfClaKr/Ecole42Paris_Override) | ft_ping |
-| [Rainfall](https://github.com/PfClaKr/Ecole42Paris_Rainfall) | rainfall |
-| [WebServ](https://github.com/PfClaKr/Ecole42Paris_Webserv) | WebServ |
-| [miniRT](https://github.com/PfClaKr/Ecole42Paris_miniRT) | miniRT |
-| [BADASS](https://github.com/PfClaKr/Ecole42Paris_BADASS) | BADASS |
+| Project | Description | Tech |
+| ----- | ----- | ----- |
+| [KFS](https://github.com/PfClaKr/Ecole42Paris_KFS) | Implementing a linux Kernel From Scratch | Rust, QEMU |
+| [BADASS](https://github.com/PfClaKr/Ecole42Paris_BADASS) | Bgp At Doors of Autonomous Systems is Simple | GNS3, Network |
+| [ft_shield](https://github.com/PfClaKr/Ecole42Paris_ft_shield) | Implementing a Trojan Virus | C |
+| [ft_ping](https://github.com/PfClaKr/Ecole42Paris_Override) | Implementing linux inetutils ping command | C |
+| [Override](https://github.com/PfClaKr/Ecole42Paris_Override) | Reverse Engineering C++ codes | GDB |
+| [Rainfall](https://github.com/PfClaKr/Ecole42Paris_Rainfall) | Reverse Engineering C codes | GDB |
+| [miniRT](https://github.com/PfClaKr/Ecole42Paris_miniRT) | Implementing 3D Renderer with Ray Tracing | C |
+| [WebServ](https://github.com/PfClaKr/Ecole42Paris_Webserv) | Implementing a WebServ | C++ |
 
 
 
